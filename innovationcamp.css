@@ -23,6 +23,24 @@ body{
 	padding-top: 2.5vw;
 }
 
+.nav{
+	text-align: right;
+	font-size: 1.6vw;
+	display:inline-block;
+	float:right;
+	border-width: 5px;
+}
+.nav a{
+	text-decoration:none;
+	padding: 2vw;
+	color:black;
+}
+.nav a:hover{
+	color:#403030;
+	background-color: #f0f0f0;
+
+}
+
 * {
     box-sizing: content-box;
 
@@ -76,23 +94,3 @@ body{
   .col-tall-95 {width: 95%;}
   .col-tall-100 {width: 100%;}
 
-
-
-
-.nav{
-	text-align: right;
-	font-size: 1.6vw;
-	display:inline-block;
-	float:right;
-	border-width: 5px;
-}
-.nav a{
-	text-decoration:none;
-	padding: 2vw;
-	color:black;
-}
-.nav a:hover{
-	color:#403030;
-	background-color: #f0f0f0;
-
-}
