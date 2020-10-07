@@ -21,7 +21,7 @@ body{
 }
 
 .startside{
-	font-size: 1.3vw;
+	font-size: 24px;
 	padding-top: 2.5vw;
 }
 
@@ -108,5 +108,3 @@ body{
   .col-tall-10 {width: 90%;}
   .col-tall-95 {width: 95%;}
   .col-tall-100 {width: 100%;}
-
-
