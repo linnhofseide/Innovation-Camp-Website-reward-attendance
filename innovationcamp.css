@@ -9,6 +9,7 @@ h1{
 body{
 	font-family: 'Open Sans', sans-serif;;
 	text-align: left;
+	background-color: #e3e1e1;
 }
 .startside{
 	font-size: 1.5vw;
@@ -30,3 +31,24 @@ body{
 .col-small-40 {width: 40%;}
 .col-small-60 {width: 60%;}
 .col-small-100 {width: 100%;}
+
+
+
+.nav{
+	text-align: right;
+	font-size: 1.6vw;
+	display:inline-block;
+	float:right;
+	border-width: 5px;
+}
+.nav a{
+	text-decoration:none;
+	padding: 2vw;
+	color:black;
+}
+.nav a:hover{
+	color:#403030;
+	background-color: #f0f0f0;
+
+}
+
