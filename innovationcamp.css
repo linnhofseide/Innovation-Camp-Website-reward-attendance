@@ -21,8 +21,13 @@ body{
 }
 
 .startside{
-	font-size: 1.5vw;
+	font-size: 1.3vw;
 	padding-top: 2.5vw;
+}
+
+::selection{
+  background-color: #362219;
+  color:white;
 }
 
 .nav{
@@ -40,6 +45,14 @@ body{
 .nav a:hover{
 	color:#403030;
 	background-color: #f0f0f0;
+
+}
+
+
+.solution{
+  font-size: 1.3vw;
+  padding-top: 4vw;
+}
 
 }
 
@@ -95,3 +108,5 @@ body{
   .col-tall-10 {width: 90%;}
   .col-tall-95 {width: 95%;}
   .col-tall-100 {width: 100%;}
+
+
