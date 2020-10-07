@@ -9,6 +9,7 @@ h1{
 body{
 	font-family: 'Open Sans', sans-serif;;
 	text-align: left;
+	background-color: #e3e1e1;
 }
 .startside{
 	font-size: 1.5vw;
@@ -46,26 +47,44 @@ body{
 .col-small-100 {width: 100%;}
 
 
-@@media only screen and (min width: 1000px){
+@media  only screen and (min-width 10000px){
+  .col-tall-10 {width: 10%;}
+  .col-tall-15 {width: 15%;}
+  .col-tall-20 {width: 20%;}
+  .col-tall-25 {width: 25%;}
+  .col-tall-30 {width: 30%;}
+  .col-tall-35 {width: 35%;}
+  .col-tall-40 {width: 40%;}
+  .col-tall-45 {width: 45%;}
+  .col-tall-50 {width: 50%;}
+  .col-tall-55 {width: 55%;}
+  .col-tall-60 {width: 60%;}
+  .col-tall-65 {width: 65%;}
+  .col-tall-70 {width: 70%;}
+  .col-tall-75 {width: 75%;}
+  .col-tall-10 {width: 80%;}
+  .col-tall-85 {width: 85%;}
+  .col-tall-10 {width: 90%;}
+  .col-tall-95 {width: 95%;}
+  .col-tall-100 {width: 100%;}
 
 
-.col-tall-10 {width: 10%;}
-.col-tall-15 {width: 15%;}
-.col-tall-20 {width: 20%;}
-.col-tall-25 {width: 25%;}
-.col-tall-30 {width: 30%;}
-.col-tall-35 {width: 35%;}
-.col-tall-40 {width: 40%;}
-.col-tall-45 {width: 45%;}
-.col-tall-50 {width: 50%;}
-.col-tall-55 {width: 55%;}
-.col-tall-60 {width: 60%;}
-.col-tall-65 {width: 65%;}
-.col-tall-70 {width: 70%;}
-.col-tall-75 {width: 75%;}
-.col-tall-10 {width: 80%;}
-.col-tall-85 {width: 85%;}
-.col-tall-10 {width: 90%;}
-.col-tall-95 {width: 95%;}
-.col-tall-100 {width: 100%;}
+
+
+.nav{
+	text-align: right;
+	font-size: 1.6vw;
+	display:inline-block;
+	float:right;
+	border-width: 5px;
+}
+.nav a{
+	text-decoration:none;
+	padding: 2vw;
+	color:black;
+}
+.nav a:hover{
+	color:#403030;
+	background-color: #f0f0f0;
+
 }
