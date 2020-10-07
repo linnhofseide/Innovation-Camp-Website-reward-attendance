@@ -6,9 +6,9 @@ In this assignment, you will take your group’s idea from the innovation camp h
 
 Step 1: Find a group of 2 to 3 people
 
-Step 2: Choose which idea from the induction week innovation camp for your website 
+Step 2: Choose which idea from the induction week innovation camp for your website
 
-Step 3: Make a website that presents your idea. 
+Step 3: Make a website that presents your idea.
 
 After you have created a website, you must submit the link to your website and the names and student numbers of all team members on canvas.
 Learning outcomes:
@@ -36,7 +36,7 @@ How can attendance and enrollment data prevent dropout in school?
 
 Ikke alle barn har et godt forhold til skole i ung alder, og i noen land er det mange elever som dropper ut av skolen tidlig. Dette kan ha betydelige negative konsekvenser for både det individe barnet og økonomien i samfunnet det lever i. Målet vårt er å snu denne trenden ved å engasjere barn til bedre oppmøte på skole.
 
-Løsningen vår er basert på prinsippene om at et belønningssystem fører til mer engasjement i klasserommet. Hvis vi kombinerer dette med innsamling av data rundt fravær og fraværsårsaker kan vi bidra til å holde elevene på skolen med engasjement, samtidig som vi bruker analyser til å fange opp de som er på vei til å droppe ut. Flere detaljer om løsningen finner du ved å klikke her. 
+Løsningen vår er basert på prinsippene om at et belønningssystem fører til mer engasjement i klasserommet. Hvis vi kombinerer dette med innsamling av data rundt fravær og fraværsårsaker kan vi bidra til å holde elevene på skolen med engasjement, samtidig som vi bruker analyser til å fange opp de som er på vei til å droppe ut. Flere detaljer om løsningen finner du ved å klikke her.
 ///
 
 Vår problemstilling: Hvordan engasjere barn til å få et bedre forhold til skolen i ung alder, samtidig som vi forhindrer at elever detter av underveis.
@@ -51,5 +51,3 @@ Vi tenker derfor at applikasjonen skal hente inn data som: Skole, klasse, antall
 
 How can technology play a role in solving this issue? 
 Den stadig økende graden av tilgjengelig teknologi, i kombinasjon med den raske utviklingen av nye teknologiske løsninger, gjør at dette kan være med på å bidra til at det er enklere å samle data på de som dropper ut, og hvorfor de dropper ut. Dersom man benytter disse dataene sammen med statistiske modeller, kan man oppdage mønstre og årsakssammenhenger i hva som gjør at elever dropper ut av skolen. Teknologien er dermed en “enabler” for å få samlet inn dataene man trenger for å kunne gjøre analysene som må til for å finne ut av hvorfor folk dropper ut av skolen, slik at myndighetene kan iverksette tiltak for å motvirke dette så tidlig som mulig.
-
-
