@@ -18,6 +18,11 @@ body{
 
 }
 
+::selection{
+	background-color: #362219;
+	color:white;
+}
+
 .startside{
 	font-size: 1.5vw;
 	padding-top: 2.5vw;
