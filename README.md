@@ -34,6 +34,11 @@ _________________________________________________________________________
 
 How can attendance and enrollment data prevent dropout in school?
 
+Ikke alle barn har et godt forhold til skole i ung alder, og i noen land er det mange elever som dropper ut av skolen tidlig. Dette kan ha betydelige negative konsekvenser for både det individe barnet og økonomien i samfunnet det lever i. Målet vårt er å snu denne trenden ved å engasjere barn til bedre oppmøte på skole.
+
+Løsningen vår er basert på prinsippene om at et belønningssystem fører til mer engasjement i klasserommet. Hvis vi kombinerer dette med innsamling av data rundt fravær og fraværsårsaker kan vi bidra til å holde elevene på skolen med engasjement, samtidig som vi bruker analyser til å fange opp de som er på vei til å droppe ut. Flere detaljer om løsningen finner du ved å klikke her. 
+///
+
 Vår problemstilling: Hvordan engasjere barn til å få et bedre forhold til skolen i ung alder, samtidig som vi forhindrer at elever detter av underveis.
 
 Vår løsning: Vår løsning baserer seg på prinsippene om at et belønningssystem skaper engasjement i klasserommet. Dette i kombinasjon med innsamling av data rundt fravær og fraværsårsaker gjør at vi kan holde elevene på skolen med engasjement, samtidig som vi kan fange opp de som er på vei utenfor ved hjelp av analyser.
