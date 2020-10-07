@@ -64,7 +64,7 @@ body{
 [class*="col-"]{
   float: left;
   padding: 1vw;
-  border: 1px solid grey;
+  border: 0px solid grey;
 }
 
 .col-small-10 {width: 10%;}
