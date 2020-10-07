@@ -1,7 +1,7 @@
 
 h1{
 
-	font-size: 70;
+	font-size: 30px;
 	font-weight:600;
 
 
@@ -64,7 +64,6 @@ body{
 [class*="col-"]{
   float: left;
   padding: 1vw;
-  border: 1px solid grey;
 }
 
 .col-small-10 {width: 10%;}
