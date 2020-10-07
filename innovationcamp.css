@@ -3,7 +3,7 @@ h1{
 
 	font-size: 3vw;
 
-	
+
 }
 
 body{
@@ -14,3 +14,19 @@ body{
 	font-size: 1.5vw;
 }
 
+* {
+    box-sizing: content-box;
+
+}
+
+[class*="col-"]{
+  float: left;
+  padding: 1vw;
+  border: 1px solid grey;
+}
+
+.col-small-10 {width: 10%;}
+.col-small-20 {width: 20%;}
+.col-small-40 {width: 40%;}
+.col-small-60 {width: 60%;}
+.col-small-100 {width: 100%;}
