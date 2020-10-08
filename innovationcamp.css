@@ -55,12 +55,12 @@ body{
   text-decoration:none;
   padding: 2vw;
   color:black;
-  background-color: #E3B104;
+  background-color: beige;
   border-radius: 10px;
 }
 .nav a:hover{
-  background-color: #fad248;
-
+  background-color: #726750;
+	color: white;
 }
 
 .kilde{
