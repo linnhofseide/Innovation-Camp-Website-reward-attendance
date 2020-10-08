@@ -3,29 +3,41 @@ h1{
 
 	font-size: 30px;
 	font-weight:600;
+	color: teal;
 
 }
 
+
+img{
+  width: 450px;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
+  margin-bottom:none;
+}
 
 
 body{
 
-	font-family: 'Open Sans', sans-serif;
-	text-align: left;
-	background-color: #e3e1e1;
-	padding-left: 5vw;
-	padding-right:5vw;
-	font-weight:400;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+  background-color: cream;
+  padding-left: 5vw;
+  padding-right:5vw;
+  font-weight:400;
+  font-size: 20px;
+
+
 }
 
 .startside{
-	font-size: 20px;
-	padding-top: 2.5vw;
+  padding-top: 2.5vw;
 }
 .solution{
-  font-size: 20px;
   padding-top: 2vw;
 }
+
 
 ::selection{
   background-color: #362219;
@@ -33,35 +45,26 @@ body{
 }
 
 .nav{
-	text-align: right;
-	font-size: 15px;
-	display:inline-block;
-	float:right;
-	border-width: 0px;
-
+  text-align: right;
+  font-size: 15px;
+  display:inline-block;
+  float:right;
+  border-width: 5px;
 }
 .nav a{
-	text-decoration:none;
-	padding: 2vw;
-	color:black;
-	background-color: #ebd234;
-		border-radius: 25px;
+  text-decoration:none;
+  padding: 2vw;
+  color:black;
+  background-color: beige;
+  border-radius: 10px;
 }
 .nav a:hover{
-	color:#403030;
-	background-color: #f0f0f0;
-}
-
-img{
-  width: 450px;
-  display: block;
-  margin-left:auto;
-  margin-right: auto;
-  padding: 30px;
+  background-color: #726750;
 
 }
+
 .kilde{
-  font-size: 10px;
+  font-size: 11px;
   text-align: center;
 }
 
