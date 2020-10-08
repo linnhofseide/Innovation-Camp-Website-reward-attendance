@@ -18,12 +18,12 @@ img{
 
 }
 .img2{
-	height: 500px;
-	display:block;
-	margin-left: auto;
-	margin-right: auto;
-	padding-top: 30px;
-	margin-bottom:none;
+width: 50%;
+margin-left: auto;
+margin-right: auto;
+padding-top: 30px;
+margin-bottom:none;
+float:left;
 
 }
 
