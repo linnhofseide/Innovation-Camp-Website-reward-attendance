@@ -18,12 +18,13 @@ img{
 
 }
 .img2{
-width: 50%;
+  width: 40%;
 margin-left: auto;
 margin-right: auto;
 padding-top: 30px;
-margin-bottom:none;
-float:left;
+padding-right: 5%;
+ padding-left: 5%; 
+  float:left;
 
 }
 
