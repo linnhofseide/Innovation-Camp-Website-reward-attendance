@@ -55,7 +55,7 @@ body{
 img{
   width: 450px;
   display: block;
-  margin-left: auto;
+  margin-left:10vw;
   margin-right: auto;
   padding: 30px;
 
