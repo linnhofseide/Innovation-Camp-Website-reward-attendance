@@ -60,6 +60,10 @@ img{
   padding: 30px;
 
 }
+.kilde{
+  font-size: 10px;
+  text-align: center;
+}
 
 * {
     box-sizing: content-box;
