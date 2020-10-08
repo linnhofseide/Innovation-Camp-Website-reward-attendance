@@ -55,11 +55,11 @@ body{
   text-decoration:none;
   padding: 2vw;
   color:black;
-  background-color: beige;
+  background-color: #E3B104;
   border-radius: 10px;
 }
 .nav a:hover{
-  background-color: #726750;
+  background-color: #fad248;
 
 }
 
