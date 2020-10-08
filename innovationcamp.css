@@ -91,7 +91,7 @@ body{
 }
 .minilink:hover{
   text-decoration: underline;
-  
+  font-size: 12px;
 }
 
 * {
