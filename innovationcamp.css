@@ -37,6 +37,7 @@ body{
 	display:inline-block;
 	float:right;
 	border-width: 0px;
+	border-radius: 25px;
 }
 .nav a{
 	text-decoration:none;
