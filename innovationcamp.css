@@ -37,13 +37,14 @@ body{
 	display:inline-block;
 	float:right;
 	border-width: 0px;
-	border-radius: 25px;
+
 }
 .nav a{
 	text-decoration:none;
 	padding: 2vw;
 	color:black;
 	background-color: #ebd234;
+		border-radius: 25px;
 }
 .nav a:hover{
 	color:#403030;
