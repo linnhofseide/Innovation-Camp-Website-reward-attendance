@@ -15,10 +15,6 @@ body{
 	padding-left: 5vw;
 	padding-right:5vw;
 	font-weight:400;
-
-
-
-
 }
 
 .startside{
@@ -51,10 +47,14 @@ body{
 .nav a:hover{
 	color:#403030;
 	background-color: #f0f0f0;
-
 }
 
-
+img{
+  width: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
 
 }
 
