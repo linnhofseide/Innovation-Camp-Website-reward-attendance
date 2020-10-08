@@ -85,13 +85,11 @@ body{
   font-size: 11px;
   text-align: center;
 }
-.minilink a:visited, a{
+.minilink:visited, a{
   color: black;
-  text-decoration: none;
 }
 .minilink:hover{
-  text-decoration: underline;
-  font-size: 12px;
+  color: teal;
 }
 
 * {
